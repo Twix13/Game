@@ -1,5 +1,5 @@
 # Game
-echo "# Game" >> README.md
+echo "# Game" >> Game
 git init 
 git add README.md
 git commit -m "first commit"
